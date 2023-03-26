@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\bin\Debug\net6.0\Array Creatore.exe
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\bin\Debug\net6.0\Array Creatore.deps.json
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\bin\Debug\net6.0\Array Creatore.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\bin\Debug\net6.0\Array Creatore.dll
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\bin\Debug\net6.0\Array Creatore.pdb
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\Array Creatore.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\Array Creatore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\Array Creatore.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\Array Creatore.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\Array Creatore.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\Array Creatore.dll
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\refint\Array Creatore.dll
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\Array Creatore.pdb
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\Array Creatore.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Bcamp\Array Creatore\obj\Debug\net6.0\ref\Array Creatore.dll
