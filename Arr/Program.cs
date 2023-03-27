@@ -1,1 +1,0 @@
-﻿int[]array = ArrayCreatore(5);
