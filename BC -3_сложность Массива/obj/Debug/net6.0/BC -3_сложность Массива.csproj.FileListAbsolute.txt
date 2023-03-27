@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\BC -3_сложность Массива.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\BC -3_сложность Массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\BC -3_сложность Массива.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\BC -3_сложность Массива.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\BC -3_сложность Массива.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\bin\Debug\net6.0\BC -3_сложность Массива.exe
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\bin\Debug\net6.0\BC -3_сложность Массива.deps.json
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\bin\Debug\net6.0\BC -3_сложность Массива.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\bin\Debug\net6.0\BC -3_сложность Массива.dll
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\bin\Debug\net6.0\BC -3_сложность Массива.pdb
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\BC -3_сложность Массива.dll
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\refint\BC -3_сложность Массива.dll
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\BC -3_сложность Массива.pdb
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\BC -3_сложность Массива.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Bcamp\BC -3_сложность Массива\obj\Debug\net6.0\ref\BC -3_сложность Массива.dll
